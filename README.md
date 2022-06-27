@@ -1,7 +1,8 @@
 # FirstRepository - hello-world
-This is my first repository.  I'd like to learn about javascript in IOS shortcuts
-I have no scripting or programming experience.  I'd love to partipate in some projects.  I'm a very hands-on learner.
+<h2>This is my first repository. </h2>
+<p>I'm interested in learning about javascript, specifically, how to apply it to mac and ios shortcuts.  I have a few projects in mind that need scripting on top of the standard shortcut actions.</p>
 
-Thank you.
+<blockquote>I have no scripting or programming experience.  I am a quick learner and very motivated.  I'm excited to start creating!  Thanks for the mentoring and guidance. </blockquote>
 
-Gabriel
+
+<p>Gabriel</p>
